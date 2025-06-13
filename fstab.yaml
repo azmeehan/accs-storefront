@@ -1,6 +1,6 @@
 mountpoints:
   /:
-    url: https://content.da.live/azmeehan/accs-storefront/
+    url: https://da.live/#/azmeehan/accs-storefront
     type: markup
 
 folders:
